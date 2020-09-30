@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eisenstein_primes/static/css/main.9379ce07.chunk.css",
+    "main.js": "/eisenstein_primes/static/js/main.8aceee01.chunk.js",
+    "main.js.map": "/eisenstein_primes/static/js/main.8aceee01.chunk.js.map",
+    "runtime-main.js": "/eisenstein_primes/static/js/runtime-main.90008a86.js",
+    "runtime-main.js.map": "/eisenstein_primes/static/js/runtime-main.90008a86.js.map",
+    "static/js/2.3fc04573.chunk.js": "/eisenstein_primes/static/js/2.3fc04573.chunk.js",
+    "static/js/2.3fc04573.chunk.js.map": "/eisenstein_primes/static/js/2.3fc04573.chunk.js.map",
+    "index.html": "/eisenstein_primes/index.html",
+    "precache-manifest.6b55e7960196ce131c6a237174001876.js": "/eisenstein_primes/precache-manifest.6b55e7960196ce131c6a237174001876.js",
+    "service-worker.js": "/eisenstein_primes/service-worker.js",
+    "static/css/main.9379ce07.chunk.css.map": "/eisenstein_primes/static/css/main.9379ce07.chunk.css.map",
+    "static/js/2.3fc04573.chunk.js.LICENSE.txt": "/eisenstein_primes/static/js/2.3fc04573.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90008a86.js",
+    "static/js/2.3fc04573.chunk.js",
+    "static/css/main.9379ce07.chunk.css",
+    "static/js/main.8aceee01.chunk.js"
+  ]
+}
