@@ -9,9 +9,9 @@ An [Einstein prime](https://en.wikipedia.org/wiki/Eisenstein_prime) is a member 
 divisble by itself and the six units of that grid.
 
 The rule for tracing these paths is analogous to the one for the Gaussian primes.
-* Pick a Eisenstain integer
+* Pick a Eisenstein integer
 * Start moving in the +X direction
 * When you hit a Eisenstein prime, turn left 60 degrees
 * Continue until you reach the starting point
 
-![screenshot](images/screenshot.png')
+![screenshot](images/screenshot.png)
